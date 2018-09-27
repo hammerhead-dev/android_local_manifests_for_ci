@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+    <project path="device/qcom/common" name="LineageOS/android_device_qcom_common" revision="cm-14.1" clone-depth="1" />
+    <project path="vendor/lge" name="TheMuppets/proprietary_vendor_lge" revision="cm-14.1" clone-depth="1" />
+
+</manifest>

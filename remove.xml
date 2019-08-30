@@ -21,6 +21,7 @@
     <remove-project name="device/google/atv" />
     <remove-project name="device/google/contexthub" />
     <remove-project name="device/sample" />
+    <!--
     <remove-project name="LineageOS/android_hardware_broadcom_libbt" />
     <remove-project name="LineageOS/android_hardware_broadcom_wlan" />
     <remove-project name="platform/hardware/google/apf" />
@@ -40,6 +41,7 @@
     <remove-project name="platform/hardware/intel/img/psb_video" />
     <remove-project name="platform/hardware/invensense" />
     <remove-project name="platform/hardware/marvell/bt" />
+    -->
     <!-- <remove-project name="kernel/tests" /> -->
 <!--
     <remove-project name="LineageOS/android_packages_apps_Calendar" />

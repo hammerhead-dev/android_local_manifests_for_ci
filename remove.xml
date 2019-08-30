@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-<!--
     <remove-project name="platform/cts" />
     <remove-project name="device/generic/arm64" />
     <remove-project name="device/generic/armv7-a-neon" />
@@ -39,7 +38,6 @@
     <remove-project name="platform/hardware/intel/img/psb_video" />
     <remove-project name="platform/hardware/invensense" />
     <remove-project name="platform/hardware/marvell/bt" />
--->
     <!-- <remove-project name="kernel/tests" /> -->
 <!--
     <remove-project name="LineageOS/android_packages_apps_Calendar" />

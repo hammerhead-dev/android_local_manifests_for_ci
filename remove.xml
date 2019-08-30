@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-    <!--
+<!--
     <remove-project name="platform/cts" />
-    -->
+-->
+
     <remove-project name="device/generic/arm64" />
     <remove-project name="device/generic/armv7-a-neon" />
     <remove-project name="device/generic/car" />
@@ -21,7 +22,8 @@
     <remove-project name="device/google/atv" />
     <remove-project name="device/google/contexthub" />
     <remove-project name="device/sample" />
-    <!--
+
+<!--
     <remove-project name="LineageOS/android_hardware_broadcom_libbt" />
     <remove-project name="LineageOS/android_hardware_broadcom_wlan" />
     <remove-project name="platform/hardware/google/apf" />
@@ -41,9 +43,12 @@
     <remove-project name="platform/hardware/intel/img/psb_video" />
     <remove-project name="platform/hardware/invensense" />
     <remove-project name="platform/hardware/marvell/bt" />
-    -->
-    <!-- <remove-project name="kernel/tests" /> -->
+-->
+
 <!--
+    <remove-project name="kernel/tests" />
+-->
+
     <remove-project name="LineageOS/android_packages_apps_Calendar" />
     <remove-project name="LineageOS/android_packages_apps_CellBroadcastReceiver" />
     <remove-project name="LineageOS/android_packages_apps_EmergencyInfo" />
@@ -79,7 +84,11 @@
     <remove-project name="platform/packages/apps/Car/UserManagement" />
     <remove-project name="platform/packages/apps/Car/libs" />
     <remove-project name="platform/packages/services/Car" />
+
+<!--
     <remove-project name="LineageOS/android_platform_testing" />
+-->
+
     <remove-project name="platform/prebuilts/android-emulator" />
     <remove-project name="platform/prebuilts/clang/host/darwin-x86" />
     <remove-project name="platform/prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9" />
@@ -87,13 +96,19 @@
     <remove-project name="platform/prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.9" />
     <remove-project name="platform/prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1" />
     <remove-project name="platform/prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9" />
+
+<!--
     <remove-project name="platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.8" />
+-->
+
     <remove-project name="platform/prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8" />
     <remove-project name="platform/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9" />
     <remove-project name="platform/prebuilts/gdb/darwin-x86" />
     <remove-project name="platform/prebuilts/go/darwin-x86" />
     <remove-project name="platform/prebuilts/python/darwin-x86/2.7.5" />
     <remove-project name="platform/prebuilts/qemu-kernel" />
+
+<!--
     <remove-project name="platform/test/framework" />
     <remove-project name="platform/test/sts" />
     <remove-project name="platform/test/vts" />
@@ -106,11 +121,12 @@
     <remove-project name="platform/test/vts-testcase/vndk" />
     <remove-project name="platform/tools/adt/idea" />
     <remove-project name="platform/tools/idea" />
+-->
+
     <remove-project name="LineageOS/android_packages_apps_AppDrawer" />
     <remove-project name="LineageOS/android_packages_apps_AudioFX" />
     <remove-project name="LineageOS/android_packages_apps_Exchange" />
     <remove-project name="LineageOS/android_packages_apps_Profiles" />
     <remove-project name="LineageOS/android_packages_apps_Updater" />
--->
 
 </manifest>

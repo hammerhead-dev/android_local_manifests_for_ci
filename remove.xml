@@ -52,7 +52,6 @@
     <remove-project name="LineageOS/android_packages_apps_TV" />
     <remove-project name="LineageOS/android_packages_inputmethods_LatinIME" />
     <remove-project name="LineageOS/android_packages_providers_BookmarkProvider" />
-    <remove-project name="LineageOS/android_packages_providers_CalendarProvider" />
     <remove-project name="LineageOS/android_packages_providers_PartnerBookmarksProvider" />
     <remove-project name="LineageOS/android_packages_providers_TvProvider" />
     <remove-project name="LineageOS/android_packages_screensavers_Basic" />
